@@ -1,0 +1,38 @@
+/*URL*/
+$url: "../img";
+$font_url: "../fonts/";
+
+/*Hashing*/
+$version: "?v=3";
+
+// $max: 1080px;
+$pc: 1280px; 
+$tablet: 768px;
+$s_tablet: 708;
+$s_pc: 1280;
+$mobile: 320px;
+
+$header: 90px;
+$footer: 210px;
+
+/*Font 및 Color*/
+$family: "Pretendard", "pretendard", "프레텐다드", "Apple SD Gothic Neo", "Malgun Gothic",
+  "맑은 고딕", dotum, "돋음", "AppleGothic", "Arial", "Meiryo", "sans-serif";
+$font: 15;
+$pc_font: 16px;
+$bold: 500;
+
+$point:#2E79EB;
+$yellow:#F7C700;
+$dis: #9E9E9E;
+
+
+$white: #fff;
+$black: #262626;
+$dark_gray: #696969;
+$gray: #ddd;
+$red: #B00020;
+
+$s_white: "fff";
+$s_black: "262626";
+$s_yellow: "F7C700";
